@@ -1,0 +1,70 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="invoke" />
+      <item value="021-10-06 15:49:40.299 13398-13577com.tangshg.kotlin EAndroidRuntime: FATAL EXCEPTION: Thread-2 Process: com.tangshg.kotlin, PID: 13398 java.lang.ExceptionInInitializerError at okhttp3.OkHttpClient.&lt;init&gt;(OkHttpClient.kt:219) at okhttp3.OkHttpClient.&lt;init&gt;(OkHttpClient.kt:211) at com.tangshg.kotlin.connect.MyOkHttpsendRequestWithOkHttp1.invoke(MyOkHttp.kt:13) at com.tangshg.kotlin.connect.MyOkHttpsendRequestWithOkHttp1.invoke(MyOkHttp.kt:11) at kotlin.concurrent.ThreadsKtthreadthread1.run(Thread.kt:30) Caused by: java.lang.IllegalStateException: Expected Android API level 21+ but was 30 at okhttp3.internal.platform.AndroidPlatformCompanion.buildIfSupported(AndroidPlatform.kt:370) at okhttp3.internal.platform.PlatformCompanion.findPlatform(Platform.kt:204) at okhttp3.internal.platform.PlatformCompanion.accessfindPlatform(Platform.kt:178) at okhttp3.internal.platform.Platform.&lt;clinit&gt;(Platform.kt:179) at okhttp3.OkHttpClient.&lt;init&gt;(OkHttpClient.kt:219)  at okhttp3.OkHttpClient.&lt;init&gt;(OkHttpClient.kt:211)  at com.tangshg.kotlin.connect.MyOkHttpsendRequestWithOkHttp1.invoke(MyOkHttp.kt:13)  at com.tangshg.kotlin.connect.MyOkHttpsendRequestWithOkHttp1.invoke(MyOkHttp.kt:11)  at kotlin.concurrent.ThreadsKtthreadthread1.run(Thread.kt:30)" />
+      <item value="Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager." />
+      <item value="An exception occurred applying plugin request [id: 'com.android.application'] &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Your project path contains non-ASCII characters. This will most likely cause the build to fail on Windows. Please move your project to a different directory. See http:b.android.com95744 for details. This warning can be disabled by adding the line 'android.overridePathCheck=true' to gradle.properties file in the project directory." />
+      <item value="2021-08-06 23:09:34.514 2877-2877com.example.helloworld EAndroidRuntime: FATAL EXCEPTION: main Process: com.example.helloworld, PID: 2877 android.content.ActivityNotFoundException: Unable to find explicit activity class {com.example.helloworldcom.example.tangshg.BrActivity}; have you declared this activity in your AndroidManifest.xml? at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:2065) at android.app.Instrumentation.execStartActivity(Instrumentation.java:1727) at android.app.Activity.startActivityForResult(Activity.java:5320) at androidx.fragment.app.FragmentActivity.startActivityForResult(FragmentActivity.java:675) at android.app.Activity.startActivityForResult(Activity.java:5278) at androidx.fragment.app.FragmentActivity.startActivityForResult(FragmentActivity.java:662) at android.app.Activity.startActivity(Activity.java:5664) at android.app.Activity.startActivity(Activity.java:5617) at com.example.tangshg.MainActivity8.onClick(MainActivity.java:150) at android.view.View.performClick(View.java:7448) at com.google.android.material.button.MaterialButton.performClick(MaterialButton.java:992) at android.view.View.performClickInternal(View.java:7425) at android.view.View.access3600(View.java:810) at android.view.ViewPerformClick.run(View.java:28305) at android.os.Handler.handleCallback(Handler.java:938) at android.os.Handler.dispatchMessage(Handler.java:99) at android.os.Looper.loop(Looper.java:223) at android.app.ActivityThread.main(ActivityThread.java:7656) at java.lang.reflect.Method.invoke(Native Method) at com.android.internal.os.RuntimeInitMethodAndArgsCaller.run(RuntimeInit.java:592) at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)" />
+      <item value="QLog: d() get delegate is null!" />
+      <item value="Class 'NetworkBroadcastReceiver' must either be declared abstract or implement abstract method 'onReceive(Context, Intent)' in 'BroadcastReceiver'" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1633524836273" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1695731805429" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20221017001398041" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="291" />
+    <option name="newTranslationDialogY" value="248" />
+    <histories>
+      <item value="Content Values" />
+      <item value="Total 81 (delta 18), reused 0 (delta 0), pack-reused 0 remote: Powered by GITEE.COM [GNK-6.4]" />
+      <item value="Total 81 (delta 18), reused 0 (delta 0), pack-reused 0 client_loop: send disconnect: Connection reset by peer send-pack: unexpected disconnect while reading sideband packet fatal: the remote end hung up unexpectedly" />
+      <item value="INSTALL FAILED USER RESTRICTED" />
+      <item value="get Color Accent" />
+      <item value="invalidate Text Paint And Measurements" />
+      <item value="Charge Curve View" />
+      <item value="- gradle.properties in project root directory" />
+      <item value="Check the JVM arguments defined for the gradle process in:" />
+      <item value="Could not install Gradle distribution from" />
+      <item value="The cached zip file C:\Users\tangshg\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4-bin.zip may be corrupted." />
+      <item value="Plugin [id: 'com.android.application', version: '7.3.1', apply: false] was not found in any of the following sources:" />
+      <item value="Plugin [id: 'com.android.application', version: '7.4.1', apply: false] was not found in any of the following sources:" />
+      <item value="Could not find com.android.tools.build:gradle:8.0. Searched in the following locations:" />
+      <item value="Disable offline mode and rerun the build" />
+      <item value="No cached version of com.android.tools.build:aapt2:4.2.1-7147631 available for offline mode." />
+      <item value="Exception during working with external system: java.lang.AssertionError" />
+      <item value="Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. Your current JDK is located in D:\Android\JDK8\jre You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
+      <item value="ailed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. Your current JDK is located in D:\Android\JDK8\jre You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
+      <item value="An exception occurred applying plugin request [id: 'com.android.application']" />
+      <item value="A problem occurred evaluating project ':javalib'. &gt; Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'javalib\build.gradle'" />
+      <item value="Error resolving plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.8.0-RC'] &gt; The request for this plugin could not be satisfied because the plugin is already on the classpath with a different version (1.7.20)." />
+      <item value="was not found in any of the following sources:" />
+      <item value="reserve" />
+      <item value="Please read the following process output to find out more:" />
+      <item value="command" />
+      <item value="unrecognized" />
+      <item value="chapter" />
+      <item value="description" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="33" />
+      </map>
+    </option>
+  </component>
+</application>
