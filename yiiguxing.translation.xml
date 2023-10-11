@@ -14,7 +14,7 @@
     <option name="lastTrimTime" value="1633524836273" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695731805429" />
+    <option name="lastTrimTime" value="1696946086582" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="The project is using an incompatible version (AGP 8.0.2) of the Android Gradle plugin. Latest supported version is AGP 7.4.2" />
+      <item value="Could not install Gradle distribution from" />
       <item value="Content Values" />
       <item value="Total 81 (delta 18), reused 0 (delta 0), pack-reused 0 remote: Powered by GITEE.COM [GNK-6.4]" />
       <item value="Total 81 (delta 18), reused 0 (delta 0), pack-reused 0 client_loop: send disconnect: Connection reset by peer send-pack: unexpected disconnect while reading sideband packet fatal: the remote end hung up unexpectedly" />
@@ -39,7 +41,6 @@
       <item value="Charge Curve View" />
       <item value="- gradle.properties in project root directory" />
       <item value="Check the JVM arguments defined for the gradle process in:" />
-      <item value="Could not install Gradle distribution from" />
       <item value="The cached zip file C:\Users\tangshg\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4-bin.zip may be corrupted." />
       <item value="Plugin [id: 'com.android.application', version: '7.3.1', apply: false] was not found in any of the following sources:" />
       <item value="Plugin [id: 'com.android.application', version: '7.4.1', apply: false] was not found in any of the following sources:" />
@@ -62,8 +63,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
