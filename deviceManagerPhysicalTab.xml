@@ -1,0 +1,27 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="bf9e8594" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-bf9e8594-NKzxpp._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22127RK46C" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
