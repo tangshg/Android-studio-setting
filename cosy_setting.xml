@@ -38,10 +38,6 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
-              <option value="以上述代码为基础，帮我写一个用于WEBDAV服务同步的类" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="sardine-android" />
@@ -55,6 +51,10 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="/generate comment" />
+              <option value="/generate unit test" />
+              <option value="/generate comment" />
+              <option value="添加依赖后，报错Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfiguration$ArtifactResolveException: Could not resolve all files for configuration ':app:defaultFlavorDebugCompileClasspath'." />
             </list>
           </value>
         </entry>
