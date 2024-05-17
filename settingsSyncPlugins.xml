@@ -49,6 +49,23 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="coderead.IdeaPlugins.maven">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.alibabacloud.intellij.cosy">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.android.tools.apk">
           <value>
             <PluginData>
@@ -251,6 +268,17 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.zh">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
