@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="未命名" />
-    <option name="defaultScopeName" value="未命名" />
-    <option name="SEARCH_SCOPE" value="未命名" />
+    <option name="customScope" value="项目 'quillpad'" />
+    <option name="defaultScopeName" value="项目 'quillpad'" />
+    <option name="SEARCH_SCOPE" value="项目 'quillpad'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
