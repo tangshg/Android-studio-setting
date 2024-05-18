@@ -36,7 +36,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="/explain code" />
               <option value="/generate comment" />
               <option value="/generate unit test" />
               <option value="/generate comment" />
@@ -55,6 +54,7 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="使用 sardineAndroid 来连接webdav服务" />
+              <option value="Unresolved reference: SardineFactory" />
             </list>
           </value>
         </entry>
