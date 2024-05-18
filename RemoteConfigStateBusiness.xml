@@ -1,0 +1,5 @@
+<application>
+  <component name="SmartInputRemoteConfigStateBusiness">
+    <option name="config" value="{&quot;dllFixUrl&quot;:&quot;https://juejin.cn/post/7227825056977485884&quot;,&quot;documentChangeMergeTimeRange&quot;:70,&quot;guideBaseUrl&quot;:&quot;https://smart-input-source-1315501506.cos.ap-shanghai.myqcloud.com/guidedoc&quot;,&quot;guidePurchaseAfterExpired&quot;:&quot;试用已结束，请点击激活插件按钮，一次性付费永久使用，如果您有不好的使用体验，可以通过微信公众号“效率铺子”让我们知道，我们将持续进行优化。您也可以稍后从这里进行激活操作”顶部导航栏-&gt;Tools-&gt;Smart Input-&gt;激活插件“&quot;,&quot;ignoreCaretBetweenDocumentChangeTimeInterval&quot;:100,&quot;inputSourceChangeDelayEffectTime&quot;:600,&quot;inputSourceChangeKeyEventTimeInterval&quot;:30,&quot;inputSourceManagerKeyDelay&quot;:50000,&quot;inputSourceStatusSwitchMaxKeyTimeInterval&quot;:320,&quot;officialWebsiteUrl&quot;:&quot;https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&amp;album_id=3366659816064237569&quot;,&quot;projectSearchChangeDelay&quot;:1000,&quot;sameLanguageTwiceTimeInterval&quot;:1000,&quot;serviceHostName&quot;:&quot;https://xiaolvpuzi.cn&quot;}" />
+  </component>
+</application>
