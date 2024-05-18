@@ -35,12 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="sardine-android" />
               <option value="使用sardine-android帮我生成一个用于WEBDAV服务同步的类" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -55,6 +49,12 @@
               <option value="/generate unit test" />
               <option value="/generate comment" />
               <option value="添加依赖后，报错Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfiguration$ArtifactResolveException: Could not resolve all files for configuration ':app:defaultFlavorDebugCompileClasspath'." />
+              <option value="A problem occurred configuring project ':app'.&#10;&gt; Could not create task ':app:compileGoogleFlavorDebugKotlin'.&#10;   &gt; Could not create task ':app:dataBindingGenBaseClassesGoogleFlavorDebug'.&#10;      &gt; Cannot use @TaskAction annotation on method DataBindingGenBaseClassesTask.writeBaseClasses() because interface org.gradle.api.tasks.incremental.IncrementalTaskInputs is not a valid parameter to an action method." />
+              <option value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfiguration$ArtifactResolveException: Could not resolve all files for configuration ':app:defaultFlavorDebugCompileClasspath'." />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="Removing unused resources requires unused code shrinking to be turned on. See http://d.android.com/r/tools/shrink-resources.html for more information." />
+              <option value="Could not GET 'https://www.jitpack.io/com/github/sardine/sardine-android/0.5/sardine-android-0.5.pom'. Received status code 401 from server: Unauthorized" />
             </list>
           </value>
         </entry>
