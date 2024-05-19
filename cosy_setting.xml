@@ -35,7 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="/generate comment" />
               <option value="/generate unit test" />
               <option value="/generate comment" />
@@ -55,6 +54,7 @@
               <option value="/explain code" />
               <option value="使用 sardineAndroid 来连接webdav服务" />
               <option value="Unresolved reference: SardineFactory" />
+              <option value="val resources : List&lt;DavResource&gt; = sardine.list(&quot;http://webdav.server.com&quot;)" />
             </list>
           </value>
         </entry>
