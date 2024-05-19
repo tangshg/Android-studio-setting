@@ -35,13 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="使用 sardineAndroid 来连接webdav服务" />
-              <option value="Unresolved reference: SardineFactory" />
-              <option value="val resources : List&lt;DavResource&gt; = sardine.list(&quot;http://webdav.server.com&quot;)" />
-              <option value="/generate optimization" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="enum class CloudService(override val nameResource: Int) : HasNameResource, EnumPreference by key(&quot;cloud_service&quot;) {&#10;    DISABLED(R.string.preferences_cloud_service_disabled) { override val isDefault = true },&#10;    NEXTCLOUD(R.string.preferences_cloud_service_nextcloud),&#10;    WEBDAV(R.string.preferences_cloud_service_webdavcloud),&#10;}" />
@@ -52,6 +45,13 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="Note.asNextcloudNote" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="我使用 sardine-android 的依赖，想要达成上述代码的作用，用来访问WEBDAV，帮我生成例子" />
+              <option value="我需要是和 nextcloud.kt 完全一致的写法" />
+              <option value="我只需要接口，不要实现" />
+              <option value="/generate comment" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
