@@ -35,10 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="viewmodel" />
-              <option value="/explain code" />
               <option value="@HiltViewModel 注解什么意思" />
               <option value="/generate optimization" />
               <option value="/explain code" />
@@ -55,6 +51,10 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="lifecycleScope.launch 的作用" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="AlertDialog" />
             </list>
           </value>
         </entry>
