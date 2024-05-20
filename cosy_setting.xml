@@ -35,11 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="ExperimentalCoroutinesApi" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/generate comment" />
               <option value="/generate comment" />
               <option value="/generate comment" />
               <option value="Flow" />
@@ -54,6 +49,11 @@
               <option value="/explain code" />
               <option value="/generate comment" />
               <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="viewmodel" />
+              <option value="/explain code" />
+              <option value="@HiltViewModel 注解什么意思" />
+              <option value="/generate optimization" />
               <option value="/explain code" />
             </list>
           </value>
