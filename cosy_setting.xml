@@ -36,8 +36,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="/generate comment" />
-              <option value="/explain code" />
               <option value="/explain code" />
               <option value="viewmodel" />
               <option value="/explain code" />
@@ -55,6 +53,8 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="lifecycleScope.launch 的作用" />
             </list>
           </value>
         </entry>

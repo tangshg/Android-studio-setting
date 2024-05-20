@@ -93,6 +93,12 @@
       <path value="浮动代码工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CommentByBlockComment" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="浮动代码工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="GotoCustomRegion" icon="jar:file:/C:/Program%20Files/Android/Android%20Studio/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="CommentByBlockComment" icon="jar:file:/C:/Program%20Files/Android/Android%20Studio/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
