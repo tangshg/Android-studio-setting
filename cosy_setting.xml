@@ -35,8 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="@HiltViewModel 注解什么意思" />
-              <option value="/generate optimization" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/generate comment" />
@@ -55,6 +53,8 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="AlertDialog" />
+              <option value="/explain code" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
