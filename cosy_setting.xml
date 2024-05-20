@@ -35,14 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="/generate comment" />
-              <option value="/generate comment" />
-              <option value="Flow" />
-              <option value="/explain code" />
-              <option value="我只需要打印当前 log.e 级别的日志" />
-              <option value="/explain code" />
-              <option value="/explain code" />
-              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -54,6 +46,14 @@
               <option value="/explain code" />
               <option value="@HiltViewModel 注解什么意思" />
               <option value="/generate optimization" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/generate comment" />
+              <option value="/generate comment" />
+              <option value="/explain code" />
+              <option value="注释中添加 todo" />
+              <option value="/explain code" />
+              <option value="/explain code" />
               <option value="/explain code" />
             </list>
           </value>
