@@ -36,10 +36,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="/generate unit test" />
-              <option value="/generate comment" />
-              <option value="/generate comment" />
-              <option value="/explain code" />
               <option value="ExperimentalCoroutinesApi" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -53,6 +49,10 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/generate comment" />
               <option value="/explain code" />
               <option value="/explain code" />
             </list>
