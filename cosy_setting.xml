@@ -37,10 +37,6 @@
             <list>
               <option value="/explain code" />
               <option value="/explain code" />
-              <option value="enum class CloudService(override val nameResource: Int) : HasNameResource, EnumPreference by key(&quot;cloud_service&quot;) {&#10;    DISABLED(R.string.preferences_cloud_service_disabled) { override val isDefault = true },&#10;    NEXTCLOUD(R.string.preferences_cloud_service_nextcloud),&#10;    WEBDAV(R.string.preferences_cloud_service_webdavcloud),&#10;}" />
-              <option value="生成文档注释" />
-              <option value="/explain code" />
-              <option value="/explain code" />
               <option value="/generate comment" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -55,6 +51,10 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/generate unit test" />
+              <option value="/generate comment" />
+              <option value="/generate comment" />
             </list>
           </value>
         </entry>
