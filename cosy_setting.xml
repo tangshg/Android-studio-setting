@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="上面文件中，哪里定义了android:id=&quot;@+id/fragment_about&quot;&#10;                android的点击时间" />
               <option value="/explain code" />
               <option value="哪里定义了android:id=&quot;@+id/fragment_about&quot; android的点击" />
               <option value="/explain code" />
@@ -88,6 +87,7 @@
               <option value="/generate optimization" />
               <option value="This AsyncTask class should be static or leaks might occur (anonymous android.os.AsyncTask) More... (Ctrl+F1)" />
               <option value="'execute(vararg Void!): AsyncTask&lt;Void!, Void!, List&lt;DavResource&gt;!&gt;!' is deprecated. Deprecated in Java" />
+              <option value="/explain code" />
               <option value="/explain code" />
             </list>
           </value>
