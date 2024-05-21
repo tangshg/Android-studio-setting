@@ -35,7 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="/generate comment" />
               <option value="/explain code" />
               <option value="注释中添加 todo" />
               <option value="/explain code" />
@@ -54,6 +53,7 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="在这个页面添加一个按钮" />
+              <option value="/explain code" />
               <option value="/explain code" />
             </list>
           </value>
