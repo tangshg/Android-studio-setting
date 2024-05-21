@@ -33,6 +33,13 @@
     </option>
     <option name="recentQueries">
       <map>
+        <entry key="quillpad|">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
@@ -56,6 +63,14 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
+        <entry key="quillpad|1738711289590196">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="System.getenv" />
             </list>
           </value>
         </entry>
