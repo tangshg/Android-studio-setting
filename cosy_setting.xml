@@ -70,7 +70,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="/explain code" />
               <option value="点击事件是打开WebdavTest活动" />
               <option value="如你所说，fragment中应该怎么获取this@CurrentActivity" />
               <option value="notifyActivityState pkg:io.github.quillpad.debug/org.qosp.notes.ui.MainActivity state:18 fg:false mUid:10247" />
@@ -85,6 +84,7 @@
               <option value="/generate optimization" />
               <option value="This AsyncTask class should be static or leaks might occur (anonymous android.os.AsyncTask) More... (Ctrl+F1)" />
               <option value="'execute(vararg Void!): AsyncTask&lt;Void!, Void!, List&lt;DavResource&gt;!&gt;!' is deprecated. Deprecated in Java" />
+              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
