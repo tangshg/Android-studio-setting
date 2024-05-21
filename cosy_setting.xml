@@ -71,11 +71,14 @@
             <list>
               <option value="/explain code" />
               <option value="System.getenv" />
+              <option value="/explain code" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
