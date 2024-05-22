@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="这布局改成可以上下滑动的" />
               <option value="/explain code" />
               <option value="这个布局设置成上下滑动的" />
               <option value="/explain code" />
@@ -89,6 +88,7 @@
               <option value="不是打印，是生成 buttun12到buttun37，这些方法" />
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="Activity class {io.github.quillpad/org.qosp.notes.ui.MainActivity} does not exist" />
             </list>
           </value>
         </entry>
