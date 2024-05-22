@@ -69,11 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="sardine-adnroid中的setCredentials" />
-              <option value="/explain code" />
-              <option value="boolean" />
-              <option value="Set&lt;QName&gt;" />
               <option value="List&lt;DavResource&gt; propfind(String var1, int var2, Set&lt;QName&gt; var3) throws IOException;" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -89,6 +84,11 @@
               <option value="Activity class {io.github.quillpad/org.qosp.notes.ui.MainActivity} does not exist" />
               <option value="@Url url: String," />
               <option value="@Header" />
+              <option value="@Body" />
+              <option value="@Header(&quot;If-Match&quot;)" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="这是什么语法" />
             </list>
           </value>
         </entry>
