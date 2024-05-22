@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="我要中文注释" />
               <option value="生成完成的中文注释，不要忽略任何代码" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -88,6 +87,7 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="帮我展开这个函数，不要使用语法糖" />
+              <option value="/explain code" />
               <option value="/explain code" />
             </list>
           </value>
