@@ -69,10 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/generate comment" />
-              <option value="/generate comment" />
-              <option value="/generate comment" />
-              <option value="/generate comment" />
               <option value="我要中文注释" />
               <option value="生成完成的中文注释，不要忽略任何代码" />
               <option value="/explain code" />
@@ -89,6 +85,10 @@
               <option value="/generate comment" />
               <option value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.9.0, expected version is 1.7.1." />
               <option value="Error resolving plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.7.10']&#10;&gt; The request for this plugin could not be satisfied because the plugin is already on the classpath with an unknown version, so compatibility cannot be checked." />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="帮我展开这个函数，不要使用语法糖" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
