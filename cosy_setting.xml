@@ -69,9 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/generate comment" />
-              <option value="/explain code" />
-              <option value="生成注释" />
               <option value="/generate unit test" />
               <option value="/generate comment" />
               <option value="/generate comment" />
@@ -89,6 +86,9 @@
               <option value="每一行都生成中文注释" />
               <option value="lifecycleScope.launch" />
               <option value="idea 的括号插件" />
+              <option value="/generate comment" />
+              <option value="/generate unit test" />
+              <option value="/generate comment" />
             </list>
           </value>
         </entry>
