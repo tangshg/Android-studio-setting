@@ -70,8 +70,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="这个布局设置成上下滑动的" />
-              <option value="/explain code" />
               <option value="sardine-adnroid中的setCredentials" />
               <option value="/explain code" />
               <option value="boolean" />
@@ -89,6 +87,8 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="Activity class {io.github.quillpad/org.qosp.notes.ui.MainActivity} does not exist" />
+              <option value="@Url url: String," />
+              <option value="@Header" />
             </list>
           </value>
         </entry>
