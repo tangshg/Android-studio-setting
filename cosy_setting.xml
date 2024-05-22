@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="这布局改成可以上下滑动的" />
               <option value="/explain code" />
               <option value="这个布局设置成上下滑动的" />
@@ -88,6 +87,7 @@
               <option value="/explain code" />
               <option value="binding.button11.setOnClickListener {&#10;&#10;            Log.i(&quot;tngshg&quot;,&quot;&quot;)&#10;        } &#10;以此为基础，生成 12到37" />
               <option value="不是打印，是生成 buttun12到buttun37，这些方法" />
+              <option value="/explain code" />
               <option value="/explain code" />
             </list>
           </value>
