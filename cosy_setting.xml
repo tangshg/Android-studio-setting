@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="List&lt;DavResource&gt; propfind(String var1, int var2, Set&lt;QName&gt; var3) throws IOException;" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -89,6 +88,7 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="这是什么语法" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
