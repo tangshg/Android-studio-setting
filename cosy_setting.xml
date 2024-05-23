@@ -75,7 +75,6 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
-              <option value="/explain code" />
               <option value="binding.button11.setOnClickListener {&#10;&#10;            Log.i(&quot;tngshg&quot;,&quot;&quot;)&#10;        } &#10;以此为基础，生成 12到37" />
               <option value="不是打印，是生成 buttun12到buttun37，这些方法" />
               <option value="/explain code" />
@@ -89,6 +88,7 @@
               <option value="/explain code" />
               <option value="这是什么语法" />
               <option value="/explain code" />
+              <option value="/generate comment" />
             </list>
           </value>
         </entry>
