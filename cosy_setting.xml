@@ -69,8 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="@Header(&quot;If-Match&quot;)" />
-              <option value="/explain code" />
               <option value="/explain code" />
               <option value="这是什么语法" />
               <option value="/explain code" />
@@ -89,6 +87,8 @@
               <option value="/generate comment" />
               <option value="/generate comment" />
               <option value="在每行代码后面生成注释" />
+              <option value="/explain code" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
