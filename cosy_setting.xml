@@ -69,10 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="Class 'WebdavManager' is not abstract and does not implement abstract member public abstract suspend fun isServerCompatible(config: ProviderConfig): BaseResult defined in org.qosp.notes.data.sync.core.SyncProvider" />
-              <option value="/generate comment" />
-              <option value="/explain code" />
-              <option value="/explain code" />
               <option value="/generate comment" />
               <option value="/explain code" />
               <option value="/generate comment" />
@@ -89,6 +85,10 @@
               <option value="/explain code" />
               <option value="stateIn" />
               <option value="actor" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
+              <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
             </list>
           </value>
         </entry>
