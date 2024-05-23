@@ -69,15 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/generate comment" />
-              <option value="/explain code" />
-              <option value="/generate comment" />
-              <option value="@OptIn(ExperimentalCoroutinesApi::class)" />
-              <option value="中文" />
-              <option value="/generate comment" />
-              <option value="/explain code" />
-              <option value="/generate comment" />
-              <option value="/generate comment" />
               <option value="在每行代码后面生成注释" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -89,6 +80,15 @@
               <option value="/explain code" />
               <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
               <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
+              <option value="/explain code" />
+              <option value="帮我把这代码拆分成容易看懂的形式" />
+              <option value="你把这段代码不用lambda重写" />
+              <option value="不要辅助蛤属" />
+              <option value="不用辅助函数也不用lambda" />
+              <option value="/explain code" />
+              <option value="return tryCalling" />
+              <option value="/explain code" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
