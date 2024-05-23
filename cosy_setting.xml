@@ -70,7 +70,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="/explain code" />
               <option value="flatMapLatest" />
               <option value="/explain code" />
               <option value="stateIn" />
@@ -86,6 +85,7 @@
               <option value="不用辅助函数也不用lambda" />
               <option value="/explain code" />
               <option value="return tryCalling" />
+              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
