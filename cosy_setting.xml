@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="在每行代码后面生成注释" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="flatMapLatest" />
@@ -87,6 +86,7 @@
               <option value="不用辅助函数也不用lambda" />
               <option value="/explain code" />
               <option value="return tryCalling" />
+              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
             </list>
