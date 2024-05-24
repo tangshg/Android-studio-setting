@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="@AndroidEntryPoint" />
               <option value="@AndroidEntryPoint 解释他" />
               <option value="private val model: WebdavViewModel by activityViewModels()" />
@@ -89,6 +88,7 @@
               <option value="在debug模式下，如何将程序打上所有的断点" />
               <option value="方法断点" />
               <option value="android studio 将一个类全部添加断点" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
