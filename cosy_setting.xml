@@ -69,14 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
-              <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
-              <option value="/explain code" />
-              <option value="帮我把这代码拆分成容易看懂的形式" />
-              <option value="你把这段代码不用lambda重写" />
-              <option value="不要辅助蛤属" />
-              <option value="不用辅助函数也不用lambda" />
-              <option value="/explain code" />
               <option value="return tryCalling" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -89,6 +81,14 @@
               <option value="这个函数怎么实现的" />
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="package org.qosp.notes.di&#10;&#10;import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory&#10;import dagger.Module&#10;import dagger.Provides&#10;import dagger.hilt.InstallIn&#10;import dagger.hilt.components.SingletonComponent&#10;import kotlinx.serialization.ExperimentalSerializationApi&#10;import kotlinx.serialization.json.Json&#10;import okhttp3.MediaType.Companion.toMediaType&#10;import org.qosp.notes.data.repo.IdMappingRepository&#10;import org.qosp.notes.data.repo.NoteRepository&#10;import org.qosp.notes.data.repo.NotebookRepository&#10;import org.qosp.notes.data.sync.nextcloud.NextcloudAPI&#10;import org.qosp.notes.data.sync.nextcloud.NextcloudManager&#10;import retrofit2.Retrofit&#10;import retrofit2.create&#10;import javax.inject.Named&#10;import javax.inject.Singleton&#10;&#10;@Module&#10;@InstallIn(SingletonComponent::class)&#10;object NextcloudModule {&#10;    private val json = Json { ignoreUnknownKeys = true }&#10;&#10;    @OptIn(ExperimentalSerializationApi::class)&#10;    @Provides&#10;    @Singleton&#10;    fun provideNextcloud(): NextcloudAPI {&#10;        return Retrofit.Builder()&#10;            .baseUrl(&quot;http://localhost/&quot;) // Since the URL is configurable by the user we set it later during the request&#10;            .addConverterFactory(&#10;                json.asConverterFactory(&quot;application/json&quot;.toMediaType())&#10;            )&#10;            .build()&#10;            .create()&#10;    }&#10;&#10;    @Provides&#10;    @Singleton&#10;    fun provideNextcloudManager(&#10;        nextcloudAPI: NextcloudAPI,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = NextcloudManager(nextcloudAPI, noteRepository, notebookRepository, idMappingRepository)&#10;}&#10;先不要解释，我还有另一段代码" />
+              <option value="这段代码与上段代码的联系" />
+              <option value="与实现next cloudmanager类似，我如何在utilmadoule里实现 webdavManager," />
+              <option value="我定义好了 provideWebdavManager，我如何将将这个方法加入 utliModule中？使其提供一个 SyncManager? 他与 nextCloud提供的syncmanager仅仅第四个参数不同&#10;SyncManager(&#10;        preferenceRepository,&#10;        idMappingRepository,&#10;        ConnectionManager(context),&#10;        webdavManager,&#10;        (app as App).syncingScope&#10;    )" />
+              <option value="D:\Android\AndroidProject\quillpad\app\build\tmp\kapt3\stubs\defaultFlavorDebug\org\qosp\notes\di\UtilModule.java:19: : Cannot have more than one binding method with the same name in a single module&#10;    public final &lt;T extends org.qosp.notes.data.sync.core.SyncProvider&gt;org.qosp.notes.data.sync.core.SyncManager provideSyncManager(@org.jetbrains.annotations.NotNull" />
+              <option value="D:\Android\AndroidProject\quillpad\app\build\tmp\kapt3\stubs\defaultFlavorDebug\org\qosp\notes\di\UtilModule.java:19: : @Provides methods may not have type parameters&#10;    public final &lt;T extends org.qosp.notes.data.sync.core.SyncProvider&gt;org.qosp.notes.data.sync.core.SyncManager provideSyncManager(@org.jetbrains.annotations.NotNull&#10;                                                                                                                 ^" />
+              <option value="D:\Android\AndroidProject\quillpad\app\build\generated\hilt\component_sources\defaultFlavorDebug\org\qosp\notes\App_HiltComponents.java:193: : [Dagger/MissingBinding] org.qosp.notes.data.sync.core.SyncManager cannot be provided without an @Inject constructor or an @Provides-annotated method.&#10;  public abstract static class SingletonC implements FragmentGetContextFix.FragmentGetContextFixEntryPoint,&#10;                         ^" />
+              <option value="生成中文" />
             </list>
           </value>
         </entry>
