@@ -69,8 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="/explain code" />
               <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
               <option value="Your environment does not support JCEF, cannot use Markdown Editor" />
               <option value="/explain code" />
@@ -89,6 +87,8 @@
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="这个函数怎么实现的" />
+              <option value="/explain code" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
