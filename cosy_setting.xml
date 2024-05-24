@@ -35,7 +35,6 @@
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
-              <option value="lifecycleScope.launch 的作用" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -55,6 +54,7 @@
               <option value="@Provides&#10;    @Singleton&#10;    fun provideSyncManager(&#10;        @ApplicationContext context: Context,&#10;        preferenceRepository: PreferenceRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;        nextcloudManager: NextcloudManager,&#10;        app: Application,&#10;    ) = SyncManager(&#10;        preferenceRepository,&#10;        idMappingRepository,&#10;        ConnectionManager(context),&#10;        nextcloudManager,&#10;        (app as App).syncingScope&#10;    )&#10;    &#10;    @Provides&#10;    @Singleton&#10;&#10;    fun provideSyncManager(&#10;        @ApplicationContext context: Context,&#10;        preferenceRepository: PreferenceRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;        webdavManager: WebdavManager,&#10;        app: Application,&#10;    ) = SyncManager(&#10;        preferenceRepository,&#10;        idMappingRepository,&#10;        ConnectionManager(context),&#10;        webdavManager,&#10;        (app as App).syncingScope&#10;    )&#10;    你帮我把这两个函数合并成一个" />
               <option value="/generate optimization" />
               <option value="Activity class {io.github.quillpad.debug/org.qosp.notes.ui.MainActivity} does not exist" />
+              <option value="Conflicting declarations: public abstract val cloudManager: SyncProvider, private final val cloudManager: SyncProvider" />
             </list>
           </value>
         </entry>
