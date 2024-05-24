@@ -62,11 +62,15 @@
           <value>
             <list>
               <option value="/explain code" />
+              <option value="怎么关闭代码自动补全" />
+              <option value="你的代码自动补全" />
             </list>
           </value>
         </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
