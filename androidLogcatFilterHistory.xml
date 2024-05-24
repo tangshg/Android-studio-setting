@@ -5,13 +5,14 @@
         <option value="package:mine tag:tangshg " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:info " />
+    <option name="mostRecentlyUsed" value="package:mine tag:tangshg " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TAG:tangshg" />
+        <option value="package:mine level:error " />
+        <option value="package:mine level:debug " />
         <option value="package:mine level:info " />
         <option value="package:mine level:i、" />
-        <option value="package:mine level:debug " />
-        <option value="package:mine level:error " />
         <option value="package:mine " />
       </list>
     </option>

@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFormattingOptions">
-    <option name="standardFormattingOptions" value="{'timestampFormat':{'style':'DATETIME','enabled':true},'processThreadFormat':{'style':'BOTH','enabled':false},'tagFormat':{'maxLength':11,'hideDuplicates':false,'enabled':true,'colorize':true},'appNameFormat':{'maxLength':22,'hideDuplicates':false,'enabled':true},'processNameFormat':{'maxLength':29,'hideDuplicates':false,'enabled':false},'levelFormat':{'enabled':true}}" />
+    <option name="standardFormattingOptions" value="{'timestampFormat':{'style':'DATETIME','enabled':true},'processThreadFormat':{'style':'BOTH','enabled':false},'tagFormat':{'maxLength':17,'hideDuplicates':false,'enabled':true,'colorize':true},'appNameFormat':{'maxLength':22,'hideDuplicates':false,'enabled':true},'processNameFormat':{'maxLength':29,'hideDuplicates':false,'enabled':false},'levelFormat':{'enabled':true}}" />
     <option name="compactFormattingOptions" value="{'timestampFormat':{'style':'TIME','enabled':true},'processThreadFormat':{'style':'BOTH','enabled':false},'tagFormat':{'maxLength':14,'hideDuplicates':false,'enabled':true,'colorize':true},'appNameFormat':{'maxLength':19,'hideDuplicates':false,'enabled':true},'processNameFormat':{'maxLength':32,'hideDuplicates':false,'enabled':true},'levelFormat':{'enabled':true}}" />
   </component>
 </application>
