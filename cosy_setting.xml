@@ -69,8 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="android studio 将一个类全部添加断点" />
-              <option value="/explain code" />
               <option value="Flow" />
               <option value="flatMapLatest" />
               <option value="number -&gt;" />
@@ -89,6 +87,8 @@
               <option value="@Inject&#10;    lateinit var syncManager: SyncManager&#10;为什么可以这样用" />
               <option value="[Dagger/DuplicateBindings] org.qosp.notes.data.sync.core.SyncManager is bound multiple times:&#10;  public abstract static class SingletonC implements FragmentGetContextFix.FragmentGetContextFixEntryPoint," />
               <option value="第三种方法应该怎么实现" />
+              <option value="我按照你说的，新建了一个接口 SyncProvider，并且实现了它，如下：&#10;class NextcloudManager(&#10;    private val nextcloudAPI: NextcloudAPI,&#10;    private val noteRepository: NoteRepository,&#10;    private val notebookRepository: NotebookRepository,&#10;    private val idMappingRepository: IdMappingRepository,&#10;) : SyncProvider{}&#10;&#10;class WebdavManager(&#10;    private val webdavAPI:WebdavAPIImpl, // Webdav API客户端，用于与服务器交互&#10;    private val noteRepository: NoteRepository, // 笔记数据仓库&#10;    private val notebookRepository: NotebookRepository, // 笔记本数据仓库&#10;    private val idMappingRepository: IdMappingRepository, // ID映射数据仓库，记录本地与远程笔记ID对应关系&#10;) : SyncProvider {}&#10;&#10;你帮我修改下 @Singleton&#10;@Provides&#10;fun provideCloudManage" />
+              <option value="Unresolved reference: getCloudService" />
             </list>
           </value>
         </entry>
