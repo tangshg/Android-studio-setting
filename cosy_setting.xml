@@ -70,10 +70,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="companion object" />
-              <option value="map" />
-              <option value="stateIn" />
-              <option value="/explain code" />
               <option value="sealed" />
               <option value="/generate unit test" />
               <option value="/explain code" />
@@ -89,6 +85,10 @@
               <option value="class SyncManager(&#10;    private val preferenceRepository: PreferenceRepository,&#10;    private val idMappingRepository: IdMappingRepository,&#10;    val connectionManager: ConnectionManager,&#10;    private val cloudManager: SyncProvider, //TODO 这里有更改，原先为 cloudManager: NextcloudManager&#10;    val syncingScope: CoroutineScope,&#10;) &#10;这个我的SyncManager，其中SyncProvider是一个接口，NextcloudManager和webdavManager实现了它，在此基础上，修改你给我的provideSyncManager" />
               <option value="@Provides&#10;    @Singleton&#10;    fun provideWebdavManager(&#10;        webdavAPI: WebdavAPIImpl,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = WebdavManager(webdavAPI, noteRepository, notebookRepository, idMappingRepository)&#10;@Provides&#10;    @Singleton&#10;    fun provideNextcloudManager(&#10;        nextcloudAPI: NextcloudAPI,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = NextcloudManager(nextcloudAPI, noteRepository, notebookRepository, idMappingRepository)&#10;在我给的代码基础上，修改你的代码" />
               <option value="@Provides&#10;    @Singleton&#10;    fun provideWebdavManager(&#10;        webdavAPI: WebdavAPIImpl,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = WebdavManager(webdavAPI, noteRepository, notebookRepository, idMappingRepository)&#10;@Provides&#10;    @Singleton&#10;    fun provideNextcloudManager(&#10;        nextcloudAPI: NextcloudAPI,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = NextcloudManager(nextcloudAPI, noteRepository, notebookRepository, idMappingRepository)&#10;优化我选中的代码" />
+              <option value="Named arguments are not allowed for non-Kotlin functions会报错" />
+              <option value="Named arguments are not allowed for non-Kotlin functions" />
+              <option value="D:\Android\AndroidProject\quillpad\app\build\generated\hilt\component_sources\defaultFlavorDebug\org\qosp\notes\App_HiltComponents.java:193: : [Dagger/DependencyCycle] Found a dependency cycle:&#10;  public abstract static class SingletonC implements FragmentGetContextFix.FragmentGetContextFixEntryPoint,&#10;                         ^&#10;      org.qosp.notes.data.repo.NoteRepository is injected at&#10;          org.qosp.notes.di.UtilModule.provideSyncManager(, noteRepository, )&#10;      org.qosp.notes.data.sync.core.SyncManager is injected at&#10;          org.qosp.notes.di.RepositoryModule.provideNoteRepository(, syncManager)&#10;      org.qosp.notes.data.repo.NoteRepository is injected at&#10;          org.qosp.notes.di.UtilModule.provideSyncManager(, noteRepository, )&#10;      ..." />
+              <option value="D:\Android\AndroidProject\quillpad\app\build\generated\hilt\component_sources\defaultFlavorDebug\org\qosp\notes\App_HiltComponents.java:193: : [Dagger/MissingBinding] org.qosp.notes.preferences.CloudService cannot be provided without an @Provides-annotated method.&#10;  public abstract static class SingletonC implements FragmentGetContextFix.FragmentGetContextFixEntryPoint,&#10;                         ^" />
             </list>
           </value>
         </entry>
