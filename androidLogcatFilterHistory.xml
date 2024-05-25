@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine tag:tangshg " />
         <option value="package:mine " />
+        <option value="package:mine tag:tangshg " />
       </list>
     </option>
     <option name="mostRecentlyUsed" value="package:mine tag:tangshg " />
