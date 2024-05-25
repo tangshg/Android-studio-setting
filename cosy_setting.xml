@@ -69,7 +69,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="Flow" />
               <option value="flatMapLatest" />
               <option value="number -&gt;" />
               <option value="number -&gt; 是什么语法" />
@@ -89,6 +88,7 @@
               <option value="第三种方法应该怎么实现" />
               <option value="我按照你说的，新建了一个接口 SyncProvider，并且实现了它，如下：&#10;class NextcloudManager(&#10;    private val nextcloudAPI: NextcloudAPI,&#10;    private val noteRepository: NoteRepository,&#10;    private val notebookRepository: NotebookRepository,&#10;    private val idMappingRepository: IdMappingRepository,&#10;) : SyncProvider{}&#10;&#10;class WebdavManager(&#10;    private val webdavAPI:WebdavAPIImpl, // Webdav API客户端，用于与服务器交互&#10;    private val noteRepository: NoteRepository, // 笔记数据仓库&#10;    private val notebookRepository: NotebookRepository, // 笔记本数据仓库&#10;    private val idMappingRepository: IdMappingRepository, // ID映射数据仓库，记录本地与远程笔记ID对应关系&#10;) : SyncProvider {}&#10;&#10;你帮我修改下 @Singleton&#10;@Provides&#10;fun provideCloudManage" />
               <option value="Unresolved reference: getCloudService" />
+              <option value="@Provides&#10;    @Singleton&#10;    fun provideNextcloudManager(&#10;        nextcloudAPI: NextcloudAPI,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = NextcloudManager(nextcloudAPI, noteRepository, notebookRepository, idMappingRepository)&#10;@Provides&#10;    @Singleton&#10;    fun provideWebdavManager(&#10;        webdavAPI: WebdavAPIImpl,&#10;        @Named(NO_SYNC) noteRepository: NoteRepository,&#10;        @Named(NO_SYNC) notebookRepository: NotebookRepository,&#10;        idMappingRepository: IdMappingRepository,&#10;    ) = WebdavManager(webdavAPI, noteRepository, notebookRepository, idMappingRepository)&#10;帮我合并 providersSyncManager和providerSyncManager" />
             </list>
           </value>
         </entry>
