@@ -1,5 +1,6 @@
 <application>
   <component name="CosySettings">
+    <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -23,7 +24,7 @@
         </option>
         <option name="local">
           <LocalModelParam>
-            <option name="enable" value="false" />
+            <option name="enable" value="true" />
             <option name="inferenceMode" value="auto" />
             <option name="maxCandidateNum" value="3" />
           </LocalModelParam>
@@ -32,6 +33,13 @@
     </option>
     <option name="recentQueries">
       <map>
+        <entry key="quillpad|">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
         <entry key="quillpad|1032412478227560">
           <value>
             <list>
@@ -64,6 +72,32 @@
               <option value="/explain code" />
               <option value="怎么关闭代码自动补全" />
               <option value="你的代码自动补全" />
+            </list>
+          </value>
+        </entry>
+        <entry key="quillpad|1738711289590196">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="sardine-adnroid中的setCredentials" />
+              <option value="/explain code" />
+              <option value="boolean" />
+              <option value="Set&lt;QName&gt;" />
+              <option value="List&lt;DavResource&gt; propfind(String var1, int var2, Set&lt;QName&gt; var3) throws IOException;" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="binding.button11.setOnClickListener {&#10;&#10;            Log.i(&quot;tngshg&quot;,&quot;&quot;)&#10;        } &#10;以此为基础，生成 12到37" />
+              <option value="不是打印，是生成 buttun12到buttun37，这些方法" />
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="Activity class {io.github.quillpad/org.qosp.notes.ui.MainActivity} does not exist" />
+              <option value="@Url url: String," />
+              <option value="@Header" />
             </list>
           </value>
         </entry>
