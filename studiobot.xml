@@ -1,0 +1,13 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingMode" value="ALWAYS_SHARE" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1716715578303">IsServerCompatible</historyEntry>
+        <historyEntry timestamp="1716715548179">那你记住，以后所有回答，都用中文回答我</historyEntry>
+        <historyEntry timestamp="1716715526886">你会说中文吗</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>
