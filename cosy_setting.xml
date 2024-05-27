@@ -106,8 +106,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="boolean" />
               <option value="Set&lt;QName&gt;" />
               <option value="List&lt;DavResource&gt; propfind(String var1, int var2, Set&lt;QName&gt; var3) throws IOException;" />
               <option value="/explain code" />
@@ -126,6 +124,8 @@
               <option value="@Header" />
               <option value="利用 sardine Android 获取webdav 服务器上的一个文件信息" />
               <option value="sardine.get" />
+              <option value="/generate comment" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
