@@ -1,15 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="favorites">
-      <list>
-        <option value="package:mine " />
-        <option value="package:mine tag:tangshg " />
-      </list>
-    </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:tangshg " />
+    <option name="mostRecentlyUsed" value="package:mine tag:tangshg" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:i、" />
+        <option value="package:mine " />
+        <option value="package:mine tag:tangshg" />
+        <option value="package:mine  level:error " />
       </list>
     </option>
   </component>
