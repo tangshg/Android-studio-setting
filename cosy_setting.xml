@@ -35,6 +35,14 @@
     </option>
     <option name="recentQueries">
       <map>
+        <entry key="Daily Notes|1738711289590196">
+          <value>
+            <list>
+              <option value="9-70:20 Error:&#10;&#9;android:exported needs to be explicitly specified for element &lt;activity#tk.louisstudio.daily_notes.MainActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https://developer.android.com/guide/topics/manifest/activity-element#exported for details." />
+              <option value="D:\Android\AndroidProject\DailyNotes\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6652071601775202671.xml:27:9-33:20 Error:&#10;&#9;android:exported needs to be explicitly specified for element &lt;activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https://developer.android.com/guide/topics/manifest/activity-element#exported for details.&#10;D:\Android\AndroidProject\DailyNotes\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6652071601775202671.xml:34:9-40:20 Error:&#10;&#9;android:exported needs to be explicitly specified for element &lt;activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https://developer.android.com/guide/topics/manifest/activity-element#exported for details.&#10;D:\Android\AndroidProject\DailyNotes\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6652071601775202671.xml:41:9-47:20 Error:&#10;&#9;android:exported needs to be explicitly specified for element &lt;activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https://developer.android.com/guide/topics/manifest/activity-element#exported for details." />
+            </list>
+          </value>
+        </entry>
         <entry key="quillpad|">
           <value>
             <list>
