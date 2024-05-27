@@ -106,9 +106,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="Set&lt;QName&gt;" />
-              <option value="List&lt;DavResource&gt; propfind(String var1, int var2, Set&lt;QName&gt; var3) throws IOException;" />
-              <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
               <option value="/explain code" />
@@ -126,6 +123,9 @@
               <option value="sardine.get" />
               <option value="/generate comment" />
               <option value="/explain code" />
+              <option value="@OptIn(ExperimentalSerializationApi::class)&#10;    @Provides&#10;    @Singleton&#10;    fun provideNextcloud(): NextcloudAPI {&#10;        return Retrofit.Builder()&#10;            .baseUrl(&quot;http://localhost/&quot;) // Since the URL is configurable by the user we set it later during the request&#10;            .addConverterFactory(&#10;                json.asConverterFactory(&quot;application/json&quot;.toMediaType())&#10;            )&#10;            .build()&#10;            .create()&#10;    }" />
+              <option value="仿照上述代码，使用 sardine -android 来连接WEBDAV" />
+              <option value="你要仿照的我给你的代码" />
             </list>
           </value>
         </entry>
