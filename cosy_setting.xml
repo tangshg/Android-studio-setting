@@ -97,7 +97,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="sardine-adnroid中的setCredentials" />
               <option value="/explain code" />
               <option value="boolean" />
@@ -117,6 +116,7 @@
               <option value="Activity class {io.github.quillpad/org.qosp.notes.ui.MainActivity} does not exist" />
               <option value="@Url url: String," />
               <option value="@Header" />
+              <option value="利用 sardine Android 获取webdav 服务器上的一个文件信息" />
             </list>
           </value>
         </entry>
