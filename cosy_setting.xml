@@ -64,8 +64,6 @@
         <entry key="demo_webdav|1738711289590196">
           <value>
             <list>
-              <option value="将文件名命名为当前时间，2024年5月28号17点38分15秒的格式为240528-173815" />
-              <option value="FATAL EXCEPTION: Thread-6&#10;                                         Process: com.example.demo_webdav, PID: 15838&#10;                                         com.thegrizzlylabs.sardineandroid.impl.SardineException: Error contacting https://dav.jianguoyun.com/dav/demo_webdav%E6%96%87%E4%BB%B6%E5%A4%B9240528-174252md (404 )&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.ValidatingResponseHandler.validateResponse(ValidatingResponseHandler.java:23)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.VoidResponseHandler.handleResponse(VoidResponseHandler.java:21)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.VoidResponseHandler.handleResponse(VoidResponseHandler.java:17)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.execute(OkHttpSardine.java:627)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.execute(OkHttpSardine.java:622)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:334)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:325)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:296)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:289)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.uploadFile(MainActivity.kt:122)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$2$1.invoke(MainActivity.kt:53)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$2$1.invoke(MainActivity.kt:51)&#10;                                         &#9;at kotlin.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)" />
               <option value="这里面有没有更行文件的方法" />
               <option value="这里面有没有更新文件的方法，中文" />
               <option value="@layout/activity_main does not contain a declaration with id etag More... (Ctrl+F1)" />
@@ -84,6 +82,8 @@
               <option value="我如何获取文件的属性" />
               <option value="Unresolved reference: head" />
               <option value="Unresolved reference: execute" />
+              <option value="/explain code" />
+              <option value="中文" />
             </list>
           </value>
         </entry>
