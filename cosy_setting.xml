@@ -115,7 +115,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="/generate comment" />
               <option value="/explain code" />
               <option value="@OptIn(ExperimentalSerializationApi::class)&#10;    @Provides&#10;    @Singleton&#10;    fun provideNextcloud(): NextcloudAPI {&#10;        return Retrofit.Builder()&#10;            .baseUrl(&quot;http://localhost/&quot;) // Since the URL is configurable by the user we set it later during the request&#10;            .addConverterFactory(&#10;                json.asConverterFactory(&quot;application/json&quot;.toMediaType())&#10;            )&#10;            .build()&#10;            .create()&#10;    }" />
               <option value="仿照上述代码，使用 sardine -android 来连接WEBDAV" />
@@ -135,6 +134,7 @@
               <option value="sardine-android" />
               <option value="我如何从webdav服务器上，使用 sardine Android 来获取markdown 文件，并转化成webdavNote" />
               <option value="你给我了错误的答案，sardine 的实例化不是你说的写法" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
