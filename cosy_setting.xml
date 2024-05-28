@@ -64,18 +64,6 @@
         <entry key="demo_webdav|1738711289590196">
           <value>
             <list>
-              <option value="中文" />
-              <option value="Serializable" />
-              <option value="这是我定义的本地文件格式，我如何使用 serdine-Android，将webdav上的md文件，转换成 webdavNote格式" />
-              <option value="我说错了，是sardine Android 库" />
-              <option value="你知道什么是sardine-Android吗？" />
-              <option value="https://github.com/thegrizzlylabs/sardine-android这是他的网址，你为甚找不到他？" />
-              <option value="sardine-android" />
-              <option value="FATAL EXCEPTION: Thread-6&#10;                                         Process: com.example.demo_webdav, PID: 7678&#10;                                         com.thegrizzlylabs.sardineandroid.impl.SardineException: Error contacting https://dav.jianguoyun.com/dav/demo_webdav%E6%96%87%E4%BB%B6%E5%A4%B9 (403 )&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.ValidatingResponseHandler.validateResponse(ValidatingResponseHandler.java:23)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.VoidResponseHandler.handleResponse(VoidResponseHandler.java:21)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.VoidResponseHandler.handleResponse(VoidResponseHandler.java:17)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.execute(OkHttpSardine.java:627)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.execute(OkHttpSardine.java:622)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.move(OkHttpSardine.java:380)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.move(OkHttpSardine.java:362)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.move(OkHttpSardine.java:357)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.moveOrRenameFile(MainActivity.kt:138)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$4$1.invoke(MainActivity.kt:73)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$4$1.invoke(MainActivity.kt:71)&#10;                                         &#9;at kotlin.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)" />
-              <option value="This view is not constrained. It only has designtime positions, so it will jump to (0,0) at runtime unless you add the constraints More... (Ctrl+F1)" />
-              <option value="为什么顶部有空白" />
-              <option value="可以上下滑动的布局" />
-              <option value="&lt;ScrollView&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;    &lt;TextView&#10;        android:id=&quot;@+id/show&quot;&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        android:text=&quot;Hello World!&quot; /&gt;&#10;        /&gt;" />
               <option value="将文件名命名为当前时间，2024年5月28号17点38分15秒的格式为240528-173815" />
               <option value="FATAL EXCEPTION: Thread-6&#10;                                         Process: com.example.demo_webdav, PID: 15838&#10;                                         com.thegrizzlylabs.sardineandroid.impl.SardineException: Error contacting https://dav.jianguoyun.com/dav/demo_webdav%E6%96%87%E4%BB%B6%E5%A4%B9240528-174252md (404 )&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.ValidatingResponseHandler.validateResponse(ValidatingResponseHandler.java:23)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.VoidResponseHandler.handleResponse(VoidResponseHandler.java:21)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.handler.VoidResponseHandler.handleResponse(VoidResponseHandler.java:17)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.execute(OkHttpSardine.java:627)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.execute(OkHttpSardine.java:622)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:334)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:325)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:296)&#10;                                         &#9;at com.thegrizzlylabs.sardineandroid.impl.OkHttpSardine.put(OkHttpSardine.java:289)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.uploadFile(MainActivity.kt:122)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$2$1.invoke(MainActivity.kt:53)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$2$1.invoke(MainActivity.kt:51)&#10;                                         &#9;at kotlin.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)" />
               <option value="这里面有没有更行文件的方法" />
@@ -84,6 +72,18 @@
               <option value="sardine android 怎么获取webdav服务上文件的属性" />
               <option value="Unresolved reference: head" />
               <option value="sardine.getRequest" />
+              <option value="@Override&#10;    public String lock(String url) throws IOException {&#10;        return lock(url, 0);&#10;    }" />
+              <option value="/explain code" />
+              <option value="这里面有没有获取文件属性的方法" />
+              <option value="中文" />
+              <option value="这个类有没有获取文件属性的方法" />
+              <option value="利用这些代码，我该如何获取文件属性" />
+              <option value="sardine Android 如何获取文件属性" />
+              <option value="sardine Android 一个库" />
+              <option value="kootlin" />
+              <option value="我如何获取文件的属性" />
+              <option value="Unresolved reference: head" />
+              <option value="Unresolved reference: execute" />
             </list>
           </value>
         </entry>
