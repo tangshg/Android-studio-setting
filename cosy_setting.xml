@@ -64,7 +64,6 @@
         <entry key="demo_webdav|1738711289590196">
           <value>
             <list>
-              <option value="这里面有没有更行文件的方法" />
               <option value="这里面有没有更新文件的方法，中文" />
               <option value="@layout/activity_main does not contain a declaration with id etag More... (Ctrl+F1)" />
               <option value="sardine android 怎么获取webdav服务上文件的属性" />
@@ -84,6 +83,7 @@
               <option value="Unresolved reference: execute" />
               <option value="/explain code" />
               <option value="中文" />
+              <option value="Failed to find Build Tools revision 30.0.3&#10;Install Build Tools 30.0.3 and sync project&#10;Upgrade plugin to version 8.4.0 and sync project" />
             </list>
           </value>
         </entry>
