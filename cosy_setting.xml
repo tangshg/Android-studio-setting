@@ -123,7 +123,6 @@
         <entry key="quillpad|1738711289590196">
           <value>
             <list>
-              <option value="@OptIn(ExperimentalSerializationApi::class)&#10;    @Provides&#10;    @Singleton&#10;    fun provideNextcloud(): NextcloudAPI {&#10;        return Retrofit.Builder()&#10;            .baseUrl(&quot;http://localhost/&quot;) // Since the URL is configurable by the user we set it later during the request&#10;            .addConverterFactory(&#10;                json.asConverterFactory(&quot;application/json&quot;.toMediaType())&#10;            )&#10;            .build()&#10;            .create()&#10;    }" />
               <option value="仿照上述代码，使用 sardine -android 来连接WEBDAV" />
               <option value="你要仿照的我给你的代码" />
               <option value="D:\Android\AndroidProject\quillpad\app\build\generated\source\kapt\defaultFlavorDebug\org\qosp\notes\di\WebdavModule_ProvideWebdavAPIFactory.java:8: : error&#10;import error.NonExistentClass;&#10;            ^" />
@@ -143,6 +142,7 @@
               <option value="你给我了错误的答案，sardine 的实例化不是你说的写法" />
               <option value="/explain code" />
               <option value="C:\Users\laohuashi\Desktop\quillpad-new-local-storage\quillpad-new-local-storage\app\build\tmp\kapt3\stubs\defaultFlavorDebug\org\qosp\notes\ui\utils\DataBindingAdapters.java:16: : Application namespace for attribute app:visible will be ignored.&#10;    public static final void setVisibility(@org.jetbrains.annotations.NotNull" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
