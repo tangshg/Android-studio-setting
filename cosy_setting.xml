@@ -64,14 +64,6 @@
         <entry key="demo_webdav|1738711289590196">
           <value>
             <list>
-              <option value="sardine android 怎么获取webdav服务上文件的属性" />
-              <option value="Unresolved reference: head" />
-              <option value="sardine.getRequest" />
-              <option value="@Override&#10;    public String lock(String url) throws IOException {&#10;        return lock(url, 0);&#10;    }" />
-              <option value="/explain code" />
-              <option value="这里面有没有获取文件属性的方法" />
-              <option value="中文" />
-              <option value="这个类有没有获取文件属性的方法" />
               <option value="利用这些代码，我该如何获取文件属性" />
               <option value="sardine Android 如何获取文件属性" />
               <option value="sardine Android 一个库" />
@@ -84,6 +76,14 @@
               <option value="Failed to find Build Tools revision 30.0.3&#10;Install Build Tools 30.0.3 and sync project&#10;Upgrade plugin to version 8.4.0 and sync project" />
               <option value="Failed to find Build Tools revision 30.0.3" />
               <option value="We recommend using a newer Android Gradle plugin to use compileSdk = 34&#10;&#10;This Android Gradle plugin (7.4.2) was tested up to compileSdk = 33&#10;&#10;This warning can be suppressed by adding&#10;    android.suppressUnsupportedCompileSdk=34&#10;to this project's gradle.properties&#10;&#10;The build will continue, but you are strongly encouraged to update your project to&#10;use a newer Android Gradle Plugin that has been tested with compileSdk = 34" />
+              <option value="/explain code" />
+              <option value="中文" />
+              <option value="FATAL EXCEPTION: Thread-3&#10;                                         Process: com.example.demo_webdav, PID: 10475&#10;                                         java.lang.IndexOutOfBoundsException: Index: 1, Size: 0&#10;                                         &#9;at java.util.ArrayList.get(ArrayList.java:437)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.etag(MainActivity.kt:187)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.access$etag(MainActivity.kt:18)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$6$1.invoke(MainActivity.kt:104)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$6$1.invoke(MainActivity.kt:102)&#10;                                         &#9;at kotlin.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)" />
+              <option value="FATAL EXCEPTION: Thread-3&#10;                                         Process: com.example.demo_webdav, PID: 10909&#10;                                         java.lang.IndexOutOfBoundsException: Index: 0, Size: 0&#10;                                         &#9;at java.util.ArrayList.get(ArrayList.java:437)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.etag(MainActivity.kt:187)&#10;                                         &#9;at com.example.demo_webdav.MainActivity.access$etag(MainActivity.kt:18)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$6$1.invoke(MainActivity.kt:104)&#10;                                         &#9;at com.example.demo_webdav.MainActivity$onCreate$6$1.invoke(MainActivity.kt:102)&#10;                                         &#9;at kotlin.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)&#10;13:59:45.135 DollieAdapterService     E  notifyActivityState pkg:com.example.demo_webdav/com.example.demo_webdav.MainActivity state:18 fg:false mUid:10261" />
+              <option value="/explain code" />
+              <option value="中文，你以后所有的回答都用中文" />
+              <option value="如何判断是否为目录" />
+              <option value="我要是的DavResource里面如何判断为目录" />
             </list>
           </value>
         </entry>
