@@ -64,8 +64,6 @@
         <entry key="demo_webdav|1738711289590196">
           <value>
             <list>
-              <option value="这里面有没有更新文件的方法，中文" />
-              <option value="@layout/activity_main does not contain a declaration with id etag More... (Ctrl+F1)" />
               <option value="sardine android 怎么获取webdav服务上文件的属性" />
               <option value="Unresolved reference: head" />
               <option value="sardine.getRequest" />
@@ -84,6 +82,8 @@
               <option value="/explain code" />
               <option value="中文" />
               <option value="Failed to find Build Tools revision 30.0.3&#10;Install Build Tools 30.0.3 and sync project&#10;Upgrade plugin to version 8.4.0 and sync project" />
+              <option value="Failed to find Build Tools revision 30.0.3" />
+              <option value="We recommend using a newer Android Gradle plugin to use compileSdk = 34&#10;&#10;This Android Gradle plugin (7.4.2) was tested up to compileSdk = 33&#10;&#10;This warning can be suppressed by adding&#10;    android.suppressUnsupportedCompileSdk=34&#10;to this project's gradle.properties&#10;&#10;The build will continue, but you are strongly encouraged to update your project to&#10;use a newer Android Gradle Plugin that has been tested with compileSdk = 34" />
             </list>
           </value>
         </entry>
